@@ -1,12 +1,12 @@
  
  npm i  lyb-fastx -g  --registry=https://npm-registry.yy.com
   
- #create project
+ create project
  fastx create my-app
 
- #install
+ install
  cd my-app
  pnpm i
  
- #run
+ run
  pnpm dev
