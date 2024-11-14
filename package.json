@@ -1,6 +1,6 @@
 {
   "name": "lyb-fastp",
-  "version": "1.1.4",
+  "version": "1.1.5-alpha.1",
   "description": "A fast React scaffold tool with mobx support",
   "main": "lib/index.js",
   "bin": {
@@ -27,6 +27,7 @@
     "@babel/core": "^7.22.9",
     "@babel/plugin-transform-class-properties": "^7.22.5",
     "@babel/plugin-proposal-decorators": "^7.22.7",
+    "@babel/plugin-transform-runtime": "^7.23.9",
     "@babel/preset-env": "^7.22.9",
     "@babel/preset-react": "^7.22.5",
     "css-loader": "^6.8.1",
